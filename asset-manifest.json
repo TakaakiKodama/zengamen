@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/zengamen/static/css/main.859c4d59.chunk.css",
-    "main.js": "/zengamen/static/js/main.c7ab56ec.chunk.js",
-    "main.js.map": "/zengamen/static/js/main.c7ab56ec.chunk.js.map",
+    "main.css": "/zengamen/static/css/main.757248a0.chunk.css",
+    "main.js": "/zengamen/static/js/main.5dca5f4d.chunk.js",
+    "main.js.map": "/zengamen/static/js/main.5dca5f4d.chunk.js.map",
     "runtime-main.js": "/zengamen/static/js/runtime-main.f55153e5.js",
     "runtime-main.js.map": "/zengamen/static/js/runtime-main.f55153e5.js.map",
-    "static/js/2.178cc516.chunk.js": "/zengamen/static/js/2.178cc516.chunk.js",
-    "static/js/2.178cc516.chunk.js.map": "/zengamen/static/js/2.178cc516.chunk.js.map",
+    "static/js/2.7aa2b59c.chunk.js": "/zengamen/static/js/2.7aa2b59c.chunk.js",
+    "static/js/2.7aa2b59c.chunk.js.map": "/zengamen/static/js/2.7aa2b59c.chunk.js.map",
     "static/js/3.d2d2b105.chunk.js": "/zengamen/static/js/3.d2d2b105.chunk.js",
     "static/js/3.d2d2b105.chunk.js.map": "/zengamen/static/js/3.d2d2b105.chunk.js.map",
     "index.html": "/zengamen/index.html",
-    "static/css/main.859c4d59.chunk.css.map": "/zengamen/static/css/main.859c4d59.chunk.css.map",
-    "static/js/2.178cc516.chunk.js.LICENSE.txt": "/zengamen/static/js/2.178cc516.chunk.js.LICENSE.txt"
+    "static/css/main.757248a0.chunk.css.map": "/zengamen/static/css/main.757248a0.chunk.css.map",
+    "static/js/2.7aa2b59c.chunk.js.LICENSE.txt": "/zengamen/static/js/2.7aa2b59c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f55153e5.js",
-    "static/js/2.178cc516.chunk.js",
-    "static/css/main.859c4d59.chunk.css",
-    "static/js/main.c7ab56ec.chunk.js"
+    "static/js/2.7aa2b59c.chunk.js",
+    "static/css/main.757248a0.chunk.css",
+    "static/js/main.5dca5f4d.chunk.js"
   ]
 }
