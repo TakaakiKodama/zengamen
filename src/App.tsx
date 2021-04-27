@@ -12,7 +12,6 @@ type Props = {
   changeSize: React.Dispatch<React.SetStateAction<Sizes>>
 }
 
-// const FlipBord =styled
 
 const App: React.FC = () => {
   const [sizes, changeSize] = useState({ font: "50vw", hight: "1em" })
@@ -55,7 +54,7 @@ const FlipBordWrapper = styled.div<Props>`
 const FlipBord: React.FC<Props> = ({ sizes, changeSize }) => {
   const [inputLetter, writeLetter] = useState("")
   const calcSize = (inputLetter: string) => {
-
+    console.log("something wrong")
     function getLen(str: string) {
       var result = 0;
       for (var i = 0; i < str.length; i++) {
@@ -64,14 +63,11 @@ const FlipBord: React.FC<Props> = ({ sizes, changeSize }) => {
           (chr === 0xf8f0) ||
           (chr >= 0xff61 && chr < 0xffa0) ||
           (chr >= 0xf8f1 && chr < 0xf8f4)) {
-          //半角文字の場合は1を加算
           result += 0.5;
         } else {
-          //それ以外の文字の場合は2を加算
           result += 1;
         }
       }
-      //結果を返す
       return result;
     };
   
