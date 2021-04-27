@@ -74,7 +74,7 @@ const FlipBord: React.FC<Props> = ({ sizes, changeSize }) => {
       //結果を返す
       return result;
     };
-
+  
     const LetterSizes = inputLetter.split("\n").map(row => getLen(row))
     const rowLength = Math.max.apply(null, LetterSizes)
     const colLength = LetterSizes.length
